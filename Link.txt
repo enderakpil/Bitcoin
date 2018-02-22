@@ -53,3 +53,5 @@ https://www.multichain.com/
 https://www.persistent.com/wp-content/uploads/2017/04/WP-Understanding-Blockchain-Consensus-Models.pdf
 https://www.linkedin.com/pulse/types-consensus-mechanism-used-blockchain-munish-singh
 https://intelledger.github.io/introduction.html#proof-of-elapsed-time-poet
+
+https://anders.com/blockchain/block.html
